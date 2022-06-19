@@ -1,0 +1,22 @@
+{
+  "name": "kotsproject",
+  "version": "0.0.1",
+  "description": "Kots is a Python-based program designed to show how deep Python can go. It includes mini-programs, which are purposely easy to use, to show how easy Python is to use.",
+  "main": "kots.py",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "test": "py kots.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yazidears/kotsproject"
+  },
+  "keywords": [
+    "kots"
+  ],
+  "author": "yazidears",
+  "license": "MIT"
+  
+}
